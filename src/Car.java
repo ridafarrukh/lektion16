@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Car {
+public class Car {
+    String model;
+    int price;
+    int year;
+
 }
